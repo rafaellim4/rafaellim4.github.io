@@ -23,14 +23,10 @@ Usando (mitmproxy) na mesma rede que a vitima é possível obter vídeos privado
 Video Poc:
 https://drive.google.com/file/d/1tfw66gAmuKCA9MzKxSRFFkc0X8b6nuZ2/view?usp=sharing
 
-|REPORTADO AO GOOGLE| 08.07.2021 |
-|--|--|
-
-|  ACEITADO| 10.07.2021 |
-|--|--|
-
-|FIXO| 27.07.2021 |
-|--|--|
+*ATIVIDADE*
+REPORTADO AO GOOGLE| 08.07.2021
+ACEITADO| 10.07.2021
+FIXO| 27.07.2021
 
 
 
