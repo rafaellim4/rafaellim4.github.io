@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Blog
+name: Rafael Lima
 
 # Name of the author
 author: Rafael Lima
@@ -24,15 +24,15 @@ footer-links:
   facebook:
   flickr:
   instagram:
-  linkedin: 
+  linkedin: rafaellimaapt
   pinterest:
-  rss: rss
-  twitter: rafaellim4
+  rss: 
+  twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-  github: rafaellim4
+  github: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
