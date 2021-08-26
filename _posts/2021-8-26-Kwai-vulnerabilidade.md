@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CVE-2020-9967 - Apple macOS 6LowPAN Vulnerability
+title: Kwai - Roubo de videos privados
 categories: [Google,Kwai]
 ---
-## **Kwai - Roubo de videos privados**
+
 
 ## **Overview**
 A verificação SSL só é feita se o usuário estiver logado, um atacante mitm consegue roubar vídeos privados na versão 5.5.10.511171
