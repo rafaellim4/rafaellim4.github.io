@@ -5,7 +5,7 @@ categories: [Google,Kwai]
 ---
 
 
-## **Overview**
+## **Visão Geral**
 A verificação SSL só é feita se o usuário não estiver logado, um atacante mitm consegue roubar vídeos privados.
 versão: 5.5.10.511171
 
