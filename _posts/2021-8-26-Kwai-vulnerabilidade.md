@@ -19,9 +19,10 @@ Possivel obter dados dos hosts:
 
     com.yxcorp.download.*
 ## Nenhum tipo de token é solicitado para visualizar videos privados
+
 **Exemplo de um video privado:**
 
-   ~http://tx-br-cdn.kwai.net/bs2/newWatermark/MTUwMDYwMDc5NzEzMDc1_en_7.mp4
+~http://tx-br-cdn.kwai.net/bs2/newWatermark/MTUwMDYwMDc5NzEzMDc1_en_7.mp4
                    
 
 # Prova de conceito
