@@ -19,7 +19,7 @@ Versão: 12.3.00.5
 ## O roubo de dados sensíveis acontece quando a outra ponta recebe o link para fazer o download dos arquivos.
 `~ http://linksharing.samsungcloud.com/TESTCODE123`
 
-<img src="https://rafaellim4.github.io/images/diagsam.jpeg" alt="802.15.4 Frame">
+![](https://rafaellim4.github.io/images/diagsam.jpeg)
 
 |REPORTADO A SAMSUNG| 27.06.2021 |
 |--|--|
