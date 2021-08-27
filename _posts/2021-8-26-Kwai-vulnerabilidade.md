@@ -18,6 +18,7 @@ Possivel obter dados dos hosts:
 ## O roubo de videos privados acontece quando o usuario aciona a seguinte atividade:
 
     com.yxcorp.download.*
+
 ## Nenhum tipo de token é solicitado para visualizar videos privados
 
 **Exemplo de um video privado:**
