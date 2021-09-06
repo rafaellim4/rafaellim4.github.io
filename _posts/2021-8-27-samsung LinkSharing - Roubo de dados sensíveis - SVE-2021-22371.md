@@ -4,7 +4,8 @@ title: Samsung LinkSharing - Roubo de dados sensíveis - SVE-2021-22371
 categories: [Android,Samsung]
 ---
 
-**Visão Geral**
+## **Visão Geral**
+
 A configuração inadequada (SSL) permite que um invasor roube dados sensíveis transmitidos no host do aplicativo.
 Versão: 12.3.00.5
 
